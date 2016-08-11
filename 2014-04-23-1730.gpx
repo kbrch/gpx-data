@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx
+  version="1.1"
+  creator="Runkeeper - http://www.runkeeper.com"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+  xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<trk>
+  <name><![CDATA[Running 4/23/14 5:30 pm]]></name>
+  <time>2014-04-23T22:30:00Z</time>
+<trkseg>
+<trkpt lat="41.858966000" lon="-87.650921000"><ele>182.3</ele><time>2014-04-23T22:30:00Z</time></trkpt>
+<trkpt lat="41.859852000" lon="-87.650942000"><ele>182.9</ele><time>2014-04-23T22:30:27Z</time></trkpt>
+<trkpt lat="41.859916000" lon="-87.650781000"><ele>182.9</ele><time>2014-04-23T22:30:31Z</time></trkpt>
+<trkpt lat="41.867171000" lon="-87.651028000"><ele>185.6</ele><time>2014-04-23T22:34:14Z</time></trkpt>
+<trkpt lat="41.867068000" lon="-87.656682000"><ele>185.4</ele><time>2014-04-23T22:36:24Z</time></trkpt>
+<trkpt lat="41.873715000" lon="-87.656790000"><ele>185.1</ele><time>2014-04-23T22:39:48Z</time></trkpt>
+<trkpt lat="41.874186000" lon="-87.656672000"><ele>185.1</ele><time>2014-04-23T22:40:03Z</time></trkpt>
+<trkpt lat="41.874290000" lon="-87.651371000"><ele>185.1</ele><time>2014-04-23T22:42:04Z</time></trkpt>
+<trkpt lat="41.872436000" lon="-87.651168000"><ele>185.1</ele><time>2014-04-23T22:43:02Z</time></trkpt>
+<trkpt lat="41.871030000" lon="-87.651082000"><ele>185.1</ele><time>2014-04-23T22:43:45Z</time></trkpt>
+<trkpt lat="41.869472000" lon="-87.651082000"><ele>185.7</ele><time>2014-04-23T22:44:33Z</time></trkpt>
+<trkpt lat="41.867275000" lon="-87.651028000"><ele>185.8</ele><time>2014-04-23T22:45:40Z</time></trkpt>
+<trkpt lat="41.859852000" lon="-87.650749000"><ele>185.8</ele><time>2014-04-23T22:49:29Z</time></trkpt>
+<trkpt lat="41.859749000" lon="-87.650996000"><ele>186.1</ele><time>2014-04-23T22:49:35Z</time></trkpt>
+<trkpt lat="41.858973000" lon="-87.650792000"><ele>182.7</ele><time>2014-04-23T22:50:00Z</time></trkpt>
+</trkseg>
+</trk>
+</gpx>
